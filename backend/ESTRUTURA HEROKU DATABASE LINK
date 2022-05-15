@@ -1,0 +1,11 @@
+postgres://
+
+tgtcmxvczawzhy														[USERNAME]
+:
+6d98bcc63cdf76fcb20e745b142704826a94cb6f39d0d518dfd513d78f495552	[PASSWORD]
+@
+ec2-3-229-11-55.compute-1.amazonaws.com								[HOST]
+:
+5432
+/
+d8c3lo4uigu89f														[MAINTENANSE DATABASE]
